@@ -1,0 +1,15 @@
+{
+  "name": "seminar_2",
+  "version": "1.0.0",
+  "repository": "https://github.com/VladislavSfrv/NodeJs.git",
+  "main": "script.js",
+  "scripts": {
+    "go": "node ./script.js"
+  },
+  "author": "Vladislav Safarov",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "number-precision": "^1.6.0"
+  }
+}
